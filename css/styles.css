@@ -1,0 +1,19 @@
+.column {
+  width: 300px;
+  float: left;
+}
+body {
+  background-image: url("../img/black.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  float: left;
+  color: orange;
+  font-size: 20px;
+}
+.sidebar{
+  float:right;
+  width:40%
+}
+img{
+  width: 500px;
+}
